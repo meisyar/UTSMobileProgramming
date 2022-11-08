@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UTS Mobile Programming</string>
+    <string name="email_not_valid" />
+    <string name="pass_length_less_then_8" />
+</resources>
